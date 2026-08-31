@@ -6,7 +6,7 @@ The application combines deterministic analysis using Pandas and statistical met
 
 ## Live Application
 
-- **Live Demo:** [Open AI Data Analyst Agent](https://ai-data-analyst-agent-8lby.onrender.com)
+- **Live Demo:** [Open AI Data Analyst Agent](https://ai-data-analyst-agent-81by.onrender.com)
 - **Source Code:** [View GitHub Repository](https://github.com/snehaa-bansal/AI-Data-Analyst-Agent)
 
 ## Key Features
