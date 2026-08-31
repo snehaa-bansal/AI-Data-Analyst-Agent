@@ -4,6 +4,11 @@ An AI-powered data analysis application that transforms CSV and Excel datasets i
 
 The application combines deterministic analysis using Pandas and statistical methods with natural-language interpretation using the Google Gemini API.
 
+## Live Application
+
+- **Live Demo:** [Open AI Data Analyst Agent](https://ai-data-analyst-agent-8lby.onrender.com)
+- **Source Code:** [View GitHub Repository](https://github.com/snehaa-bansal/AI-Data-Analyst-Agent)
+
 ## Key Features
 
 * Upload CSV and Excel datasets
