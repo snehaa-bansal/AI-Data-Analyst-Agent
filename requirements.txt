@@ -2,10 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-matplotlib
-seaborn
-scipy
-scikit-learn
 openpyxl
 google-genai
 python-dotenv

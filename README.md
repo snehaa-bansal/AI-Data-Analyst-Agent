@@ -40,10 +40,6 @@ The application combines deterministic analysis using Pandas and statistical met
 * Pandas
 * NumPy
 * Plotly
-* Matplotlib
-* Seaborn
-* SciPy
-* Scikit-learn
 * Google Gemini API
 * ReportLab
 * HTML and CSS
